@@ -1,0 +1,684 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Syllabi | Electrical Engineering
+
+
+
+
+
+COVID-19
+Visit the Health Advisories website for the latest vaccination and mask information and to Report a Case.
+
+
+
+
+
+
+
+
+
+
+
+
+ Skip to main content
+
+
+
+
+San José State University
+
+
+
+
+Menu
+
+
+
+
+Visit
+
+Campus Tours
+Maps
+Parking
+Silicon Valley
+Hammer Theatre
+SJSU Loves SJ
+
+
+
+Academics
+
+Colleges and Departments
+Majors and Programs
+Academic Calendar
+Classes
+King Library
+
+
+
+Admissions
+
+Tuition and Fees
+Housing
+Professional Education 
+Parent and Family Programs
+
+
+
+Campus Life
+
+Health and Wellness
+Safety
+SJSU Cares
+Events
+Traditions
+Student Alumni Connection
+
+
+
+Research and Innovation
+
+Office of Research
+Office of Innovation
+Research Foundation
+Student-Faculty Collaborations
+Become a Research Partner
+Centers and Institutes
+
+
+
+About
+
+Administration and Leadership
+Facts and Accomplishments
+NewsCenter
+Partnerships
+Transformation Defined
+
+
+
+
+
+
+SJSU Online
+Athletics
+Alumni Association
+Giving to SJSU
+Canvas
+one.SJSU
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+University Menu .Go toSJSU homepage.
+
+
+
+
+Visit
+
+Campus Tours
+Maps 
+Parking
+Silicon Valley
+Hammer Theatre
+SJSU Loves SJ
+
+
+
+Academics
+
+Colleges and Departments
+Majors and Programs 
+Academic Calendar
+Classes
+King Library
+
+
+
+Admissions
+
+Tuition and Fees
+Housing
+Professional Education
+Parents and Family Programs
+
+
+
+Campus Life
+
+Health and Wellness
+Safety
+SJSU Cares
+Events
+Traditions
+Student Alumni Connection
+
+
+
+Research and Innovation
+
+Office of Research
+Office of Innovation
+Research Foundation
+Student-Faculty Collaborations
+Become a Research Partner
+Centers and Institutes 
+
+
+
+Athletics
+
+
+SJSU Online
+
+
+About
+
+Administration and Leadership
+Facts and Accomplishments
+NewsCenter
+Partnerships
+Transformation Defined
+
+
+
+
+
+
+
+
+ 
+
+
+
+Home
+Electrical Engineering
+Undergraduate Program
+Syllabi
+
+
+
+
+
+Electrical EngineeringCollege of Engineering
+
+
+
+
+
+Electrical EngineeringCollege of Engineering
+Menu
+
+
+
+About Us
+About Us
+Word from the Chair
+Faculty
+Staff
+Adjunct Faculty
+Department Advisory Committee
+Emeriti
+Events
+Events
+Calendar
+
+
+Symposium
+
+
+Prospective Students
+Prospective Students
+Why Study with Us?
+Undergraduate Admissions
+Graduate Admissions
+Graduate Admissions
+New Graduate FAQ
+How To Apply
+
+
+
+
+Undergraduate Program
+Undergraduate Program
+Accreditation and Objectives
+Degree Requirements
+Syllabi
+Forms
+Advising
+Probation and Disqualification
+Change of Major
+
+
+Graduate Program
+Graduate Program
+Learning Outcomes
+Degree Requirements
+Syllabi
+Forms
+Advising
+Project and Thesis Guidelines
+Probation
+
+
+Resources
+Resources
+New Students
+New Students
+Undergraduate
+Graduate
+
+
+Faculty Office Hours
+Class Schedules
+Guides and Tutorials
+Laboratories
+Laboratories
+Analog, ASIC, and Mixed-Signals ICs
+Cadence IC Design Laboratory
+Power Electronics
+Communications Laboratory
+Circuits Laboratory
+Cisco Networking Laboratory
+CDML Laboratory
+Electronic Design I Laboratory
+Electronic Design II Laboratory
+Embedded Control Systems Laboratory
+QCESL
+FRAI Laboratory
+Microprocessors Laboratory
+Network Systems and Cybersecurity
+Open Lab
+Students Project Laboratory
+Synopsys IC Design Laboratory
+Xilinx Design Laboratory
+
+
+Technical Support
+Jobs, Internships and Scholarships
+Quick Links
+Student Clubs
+Tutoring Services
+
+
+
+
+
+
+
+
+
+
+About Us
+Word from the Chair
+Faculty
+Staff
+Adjunct Faculty
+Department Advisory Committee
+Emeriti
+Events
+Symposium
+
+
+Prospective Students
+Why Study with Us?
+Undergraduate Admissions
+Graduate Admissions
+
+
+Undergraduate Program
+Accreditation and Objectives
+Degree Requirements
+Syllabi
+Forms
+Advising
+Probation and Disqualification
+Change of Major
+
+
+Graduate Program
+Learning Outcomes
+Degree Requirements
+Syllabi
+Forms
+Advising
+Project and Thesis Guidelines
+Probation
+
+
+Resources
+New Students
+Faculty Office Hours
+Class Schedules
+Guides and Tutorials
+Laboratories
+Technical Support
+Jobs, Internships and Scholarships
+Quick Links
+Student Clubs
+Tutoring Services
+
+
+
+
+
+ 
+
+
+Syllabi
+You can find the syllabus for every Undergraduate course offered by the Electrical
+                  Engineering Department on the EE Google Drive. For most classes, a PDF copy of each
+                  section’s syllabus is available for you to download.
+               
+Visit the EE Google Drive to find and download course syllabi.
+               
+
+For course descriptions, prerequisites, and other specific information about classes,
+                  please refer to the Course Description catalog and find the class you want to see.
+               
+Table of Contents:
+
+Required EE Courses
+Technical Electives
+
+
+Required EE Courses
+               
+
+EE 30 - Introduction to Programming Micro-Controllers for Electrical Engineering
+EE 97 - Introductory Electrical Engineering Laboratory
+EE 98 - Introduction to Circuit Analysis
+EE 102 - Probability and Statistics in Electrical Engineering
+EE 110 - Circuits and Systems
+EE 110L - Continuous and Discrete Time Systems Lab
+EE 112 - Introduction to Signal Processing
+EE 118 - Digital Logic Circuit Design
+EE 120 - Microprocessor Based System Design
+EE 122 - Electronic Design I
+EE 124 - Electronic Design II
+EE 128 - Physical Electronics
+EE 132 - Theory of Automatic Controls
+EE 140 - Principles of Electromagnetic Fields
+EE 160 - Principles of Communication Systems
+EE 198A - Senior Design Project I
+EE 198B - Senior Design Project II
+
+
+Technical Electives
+               
+
+EE 104 - Applied Programming in Electrical Engineering
+EE 106 - Fundamentals of Mechatronics Engineering
+EE 125 - Analog CMOS Integrated Circuits
+EE 127 - Electronics for Biomedical Applications
+EE 129 - Introduction to Integrated Circuits Processing and Design
+EE 130 - Electric Machines and Drives
+EE 134 - Power Systems
+EE 136 - Semiconductor Power Electronics
+EE 138 - Embedded Control System Design
+EE 153 - Introduction to Digital Signal Processing
+EE 161 - Digital Communication Systems
+EE 166 - Design of CMOS Digital Integrated Circuits
+EE 169 - Microelectromechanical Systems Fabrication and Design
+EE 172 - Introduction to Microwave Engineering
+EE 174 - Analog Peripheral for Embedded Systems
+EE 176 - Computer Organization
+EE 178 - Digital Design with FPGAs
+EE 180 - Individual Studies
+EE 181 - Fundamentals of Internetworking
+EE 182 - Analog and Mixed-Signal IC Test Development
+EE 183 - Electronics Test Design Engineering II
+EE 189 - Special Topics in Electrical Engineering
+
+
+
+
+
+
+
+
+About Us
+Word from the Chair
+Faculty
+Staff
+Adjunct Faculty
+Department Advisory Committee
+Emeriti
+Events
+Calendar
+
+
+Symposium
+
+
+Prospective Students
+Why Study with Us?
+Undergraduate Admissions
+Graduate Admissions
+New Graduate FAQ
+How To Apply
+
+
+
+
+Undergraduate Program
+Accreditation and Objectives
+Degree Requirements
+Syllabi
+Forms
+Advising
+Probation and Disqualification
+Change of Major
+
+
+Graduate Program
+Learning Outcomes
+Degree Requirements
+Syllabi
+Forms
+Advising
+Project and Thesis Guidelines
+Probation
+
+
+Resources
+New Students
+Undergraduate
+Graduate
+
+
+Faculty Office Hours
+Class Schedules
+Guides and Tutorials
+Laboratories
+Analog, ASIC, and Mixed-Signals ICs
+Cadence IC Design Laboratory
+Power Electronics
+Communications Laboratory
+Circuits Laboratory
+Cisco Networking Laboratory
+CDML Laboratory
+Electronic Design I Laboratory
+Electronic Design II Laboratory
+Embedded Control Systems Laboratory
+QCESL
+FRAI Laboratory
+Microprocessors Laboratory
+Network Systems and Cybersecurity
+Open Lab
+Students Project Laboratory
+Synopsys IC Design Laboratory
+Xilinx Design Laboratory
+
+
+Technical Support
+Jobs, Internships and Scholarships
+Quick Links
+Student Clubs
+Tutoring Services
+
+
+
+
+ 
+
+
+Electrical Engineering
+
+PLACEHOLDER-FOR-XSL:VALUE-OF(SITE-TITLE) on Facebook
+PLACEHOLDER-FOR-XSL:VALUE-OF(SITE-TITLE) on Twitter
+
+
+
+
+
+Contact Us
+Phone: 408-924-3950 Fax: 408-924-3925 Email: electrical.engineering@sjsu.edu
+
+
+Visit Office
+ENGR 349Office hours:Monday-Friday9 a.m. - 5 p.m.One Washington SquareSan José, CA 95192-0084
+         
+
+
+
+
+
+
+
+Footer
+
+San José State University
+
+SJSU on Facebook
+SJSU on Twitter
+SJSU on LinkedIn
+SJSU on Instagram
+SJSU on YouTube
+
+
+
+
+
+One Washington SquareSan José, CA 95192
+408-924-1000
+SJSU Online
+
+
+ 
+
+
+
+
+Accessibility
+Title IX
+Diversity
+Land Acknowledgement
+Privacy
+
+
+
+
+Colleges
+
+Business
+Education
+Engineering
+Graduate Studies
+Health and Human Sciences
+Humanities and the Arts
+Professional and Global Education
+Science
+Social Science
+
+
+
+Resources
+
+A-Z Index
+Annual Security Report [pdf]
+Bookstore
+Calendars
+Careers and Jobs
+Catalog
+Current Students
+Emergency Food & Housing
+Freedom of Speech
+King Library
+NewsCenter
+Parenting Students
+Parking and Maps
+
+
+
+Contact Us
+
+Contact Form
+Directory
+Doing Business with SJSU
+Emergency Info
+Report a Web Problem
+Report a Title IX Complaint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Last Updated Jan 21, 2022
+
+
